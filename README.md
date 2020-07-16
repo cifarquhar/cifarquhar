@@ -1,5 +1,10 @@
-### Hi there 👋
-
+<div style={
+  width: 100%
+  height: 15em
+  border: 1px solid black
+}>
+<img src="xxxxx" alt="There would be something awesome here if I was a bit more creative"/>
+</div>
 <!--
 **cifarquhar/cifarquhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
