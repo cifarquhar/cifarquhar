@@ -1,0 +1,15 @@
+#score{
+  font-size: 2em;
+  text-align: center;
+}
+
+#gameCanvas{
+  margin: auto;
+  display: block;
+}
+
+.button{
+  margin: auto;
+  margin-top: 15px;
+  display: block;
+}
