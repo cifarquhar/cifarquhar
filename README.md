@@ -2,12 +2,16 @@
 
 <link rel="stylesheet" href="./styles.css">
 
-Want to play Snake? Use WASD to steer and try not to hit the walls!
+<!--Want to play Snake? Use WASD to steer and try not to hit the walls!-->
 
-<div id="score">Score: 0</div>
+<img src="https://github.com/cifarquhar" alt="TODO: awesome picture"/>
+
+Everyone seems to have a cool picture first, but unfortunately I can only *just* manage stick figures on a good day. I'll get round to it eventually...
+
+<!--<div id="score">Score: 0</div>
   <canvas id="gameCanvas" width="300" height="300"></canvas>
   <button id="start-button" class="button">NEW GAME</button>
-  <script src="./snake.js"></script>
+  <script src="./snake.js"></script>-->
 
 I'm an instructor at [CodeClan](https://www.codeclan.com) where we teach Python, Java and JavaScript. I took the course myself after studying mathematics and then machine learning at university, with a period spend working as a dev before coming back as an instructor.
 
