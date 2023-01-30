@@ -1,10 +1,8 @@
 # Hello World, I'm Colin. 
 
-<link rel="stylesheet" href="./styles.css">
+![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://github.com/cifarquhar" alt="TODO: awesome picture"/>
-
-Everyone seems to have a cool picture first, but unfortunately I can only *just* manage stick figures on a good day. I'll get round to it eventually...
+I'd love to say that animation was mine, but I added it while experimenting with setting up GitHub Actions. [The instructions I followed are here.](https://blog.arnabghosh.me/add-github-dark-snake-animation-readme)
 
 I lead the training team at [Bright Network Technology Academy](https://techacademy.brightnetwork.co.uk/) where we offer a free software engineering course to aspiring graduates. We cover Java, Spring, JavaScript and React in instructor-led training backed up with opportunities for self-directed further study and group projects.
 
