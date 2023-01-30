@@ -1,6 +1,6 @@
 # Hello World, I'm Colin. 
 
-![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/cifarquhar/cifarquhar/blob/output/github-contribution-grid-snake.svg)
 
 I'd love to say that animation was mine, but I added it while experimenting with setting up GitHub Actions. [The instructions I followed are here.](https://blog.arnabghosh.me/add-github-dark-snake-animation-readme)
 
